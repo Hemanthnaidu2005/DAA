@@ -1,0 +1,7 @@
+factorial output
+
+[Running] cd "c:\Users\phema\OneDrive\Pictures\Downloads\Desktop\DAA-practicals\practical 4\" && g++ factorial.cpp -o factorial && "c:\Users\phema\OneDrive\Pictures\Downloads\Desktop\DAA-practicals\practical 4\"factorial
+Iterative: 120
+Recursive: 120
+
+[Done] exited with code=0 in 0.869 seconds

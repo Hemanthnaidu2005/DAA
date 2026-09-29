@@ -1,0 +1,2 @@
+[Running] cd "c:\Users\phema\OneDrive\Pictures\Downloads\Desktop\DAA-practicals\practical5\" && g++ dynamic.cpp -o dynamic && "c:\Users\phema\OneDrive\Pictures\Downloads\Desktop\DAA-practicals\practical5\"dynamic
+9
