@@ -1,0 +1,5 @@
+binarysearch output
+
+[Running] cd "c:\Users\phema\OneDrive\Pictures\Downloads\Desktop\DAA-practicals\Practical 2\" && g++ binarysearch.cpp -o binarysearch && "c:\Users\phema\OneDrive\Pictures\Downloads\Desktop\DAA-practicals\Practical 2\"binarysearch
+5
+[Done] exited with code=0 in 0.752 seconds
