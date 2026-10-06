@@ -1,0 +1,4 @@
+
+[Running] cd "c:\Users\phema\OneDrive\Pictures\Downloads\Desktop\DAA-practicals\practical 7\" && g++ makingchangeproblem.cpp -o makingchangeproblem && "c:\Users\phema\OneDrive\Pictures\Downloads\Desktop\DAA-practicals\practical 7\"makingchangeproblem
+2
+[Done] exited with code=0 in 1.11 seconds
