@@ -1,0 +1,3 @@
+[Running] cd "c:\Users\phema\OneDrive\Pictures\Downloads\Desktop\DAA-practicals\practical 6\" && g++ matrixchainmultiplication.cpp -o matrixchainmultiplication && "c:\Users\phema\OneDrive\Pictures\Downloads\Desktop\DAA-practicals\practical 6\"matrixchainmultiplication
+216
+[Done] exited with code=0 in 3.148 seconds
